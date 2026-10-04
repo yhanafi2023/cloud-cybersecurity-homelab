@@ -1,7 +1,7 @@
 # ☁ Cloud Cybersecurity Homelab
 Deploy an attack/defend cybersecurity homelab on AWS with Terraform.
 
-Based on [collinsmc23/cloud-cybersecurity-homelab](https://github.com/collinsmc23/cloud-cybersecurity-homelab), updated to work in 2026 (current AMIs, AWS provider 6.x, AWS Free Plan instance types) and locked down to your own IP.
+
 
 # Topology
 ![Topology](images/Cloud-hosted%20Cybersecurity%20Homelab.png)

@@ -1,0 +1,18 @@
+# Local secrets
+.env
+*.tfvars
+!*.tfvars.example
+
+# Terraform state (contains account IDs, IPs and resource details)
+*.tfstate
+*.tfstate.*
+.terraform.tfstate.lock.info
+crash.log
+crash.*.log
+
+# Terraform plugin downloads
+.terraform/
+
+# SSH / key pair files
+*.pem
+*.key
